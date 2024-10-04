@@ -1,6 +1,6 @@
 Manifest-Version: 1.0
 Main-Class: org.springframework.boot.loader.launch.JarLauncher
-Start-Class: main.java.com.example.timetracker.TimetrackerApplication
+Start-Class: com.example.timetracker.TimetrackerApplication
 Spring-Boot-Version: 3.3.4
 Spring-Boot-Classes: BOOT-INF/classes/
 Spring-Boot-Lib: BOOT-INF/lib/
