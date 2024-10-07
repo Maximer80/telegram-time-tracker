@@ -1,1 +1,1 @@
-# telegram-time-tracker
+# telegram-time-tracker-gradle
